@@ -2,27 +2,8 @@
 
 
 
-# ![](media/15195475314430/15195475331063.jpg)
+# ![](http://ovygmwfnp.bkt.clouddn.com/WX20180225-164108@2x.png)
+# ![](http://ovygmwfnp.bkt.clouddn.com/WX20180225-164122@2x.png)
 
 
-`<div class="row">
-  <div class="col-md-1">.col-md-1</div>
-  <div class="col-md-1">.col-md-1</div>
-  <div class="col-md-1">.col-md-1</div>
-  <div class="col-md-1">.col-md-1</div>
-  <div class="col-md-1">.col-md-1</div>
-  <div class="col-md-1">.col-md-1</div>
-  <div class="col-md-1">.col-md-1</div>
-  <div class="col-md-1">.col-md-1</div>
-  <div class="col-md-1">.col-md-1</div>
-  <div class="col-md-1">.col-md-1</div>
-  <div class="col-md-1">.col-md-1</div>
-  <div class="col-md-1">.col-md-1</div>
-</div>`
-
-
-`<div class="row">
-  <div class="col-md-6">.col-md-6</div>
-  <div class="col-md-6">.col-md-6</div>
-</div>`
 
